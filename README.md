@@ -13,3 +13,10 @@ Sandkaste-Repository für das Github Webinar des EECC am 2021-05-06
 
 - git benutze seit 2015 profesionell
 
+### Tobias
+
+- 37 Jahre alt
+- seit dem 01. April bei GS1
+- Studium: Logistik (Wirt-Ing)
+- Komme aus Köln --> FC Fan :-(
+- GitHub im Onboarding an verschiednen Stellen kennengelernt und dachte das sollte ich mir mal anschauen
