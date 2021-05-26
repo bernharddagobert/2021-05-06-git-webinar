@@ -12,14 +12,6 @@ Sandkaste-Repository für das Github Webinar des EECC am 2021-05-06
 
 - git benutze seit 2015 profesionell
 
-### Andreas 
-
-- 28 Jahre
-- Wirschaftsingenieurwesen FR Maschinenbau (RWTH)
-- seit 2019 GS1, CC SCM
-- Aachen, ledig, >200 Boardgames
-- noch keinen richtigen Kontakt zu git
-
 ### Sabrina
 
 - 24 Jahre alt
@@ -35,7 +27,7 @@ Sandkaste-Repository für das Github Webinar des EECC am 2021-05-06
 - Komme aus Köln --> FC Fan :-(
 - GitHub im Onboarding an verschiednen Stellen kennengelernt und dachte das sollte ich mir mal anschauen
 
-### Bernhad 
+### Bernhard 
 
 - 29 Jahre 
 - International Business/Business Intelligence in Maastricht, NL
