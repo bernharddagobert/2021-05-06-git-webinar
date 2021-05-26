@@ -13,3 +13,10 @@ Sandkaste-Repository für das Github Webinar des EECC am 2021-05-06
 
 - git benutze seit 2015 profesionell
 
+### Andreas 
+
+- 28 Jahre
+- Wirschaftsingenieurwesen FR Maschinenbau (RWTH)
+- seit 2019 GS1, CC SCM
+- Aachen, ledig, >200 Boardgames
+- noch keinen richtigen Kontakt zu git
